@@ -53,7 +53,7 @@ Bakiye Kontrol
  
 Token geldiyse stake edelim
 
-   rusk-wallet moonlight-stake --amt 1000
+     rusk-wallet moonlight-stake --amt 1000
 
 ![image](https://github.com/user-attachments/assets/7cb5c82d-cd64-4292-a86e-1d3eeddfdfaa)
 
