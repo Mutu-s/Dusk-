@@ -1,4 +1,4 @@
-# Dusk-
+# Dusk
 
   > [Discord](https://discord.gg/vCarS52J)
 
